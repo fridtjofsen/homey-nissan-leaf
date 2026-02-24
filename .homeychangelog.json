@@ -67,8 +67,7 @@
   },
   "1.0.23": {
     "en": "New encryption and endpoint URL to nissan API"
-  }
-    },
+  },
   "1.0.24": {
     "en": "Added deprecation warning"
   }
