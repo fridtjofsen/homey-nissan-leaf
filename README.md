@@ -1,6 +1,16 @@
 # Nissan Leaf
 
-Adds support for Nissan Leaf pre May 2019
+**⚠️ DEPRECATED: NissanConnect EV service shuts down March 30, 2026. This app will stop working then.**
+
+Adds support for Nissan Leaf (pre-May 2019) and eNV200 (pre-2022).
+
+## ⚠️ Important Notice
+
+Nissan has announced that the NissanConnect EV service will be discontinued on **March 30, 2026**. After this date, this app will no longer work as it relies on Nissan's cloud service.
+
+The following features will still work directly via the car's navigation system:
+- Climate control timer
+- Charging timer
 
 ## Local development
 
