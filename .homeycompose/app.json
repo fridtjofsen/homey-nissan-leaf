@@ -1,21 +1,21 @@
 {
   "id": "com.nissan.leaf",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "brandColor": "#eb1b29",
   "homeyCommunityTopicId": 24641,
-  "support": "mailto:jonas.enge@gmail.com",
+  "support": "mailto:s@j7.no",
   "platforms": [
     "local"
   ],
   "name": {
-    "en": "Nissan Leaf",
-    "no": "Nissan Leaf"
+    "en": "DEPRECATED: Nissan Leaf app shuts down March 30, 2026. (LEAF pre 2019 and eNV200 pre 2022).",
+    "no": "AVVIKLET: Nissan Leaf legges ned 30. mars 2026. (LEAF før mai 2019 og eNV200 før 2022)."
   },
   "description": {
-    "en": "Switch to smarter driving",
-    "no": "Bytt til smartere kjøring"
+"en": "DEPRECATED: NissanConnect EV service shuts down March 30, 2026. This app will stop working then. Works with LEAF (pre-May 2019) and eNV200 (pre-2022).",
+    "no": "AVVIKLET: NissanConnect EV-tjenesten legges ned 30. mars 2026. Denne appen vil da slutte å fungere. Fungerer med LEAF (før mai 2019) og eNV200 (før 2022)."
   },
   "category": [
     "tools"
@@ -28,5 +28,13 @@
   "author": {
     "name": "Jonas Enge",
     "email": "jonas.enge@gmail.com"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Steffen Fridtjofsen",
+        "email": "s@j7.no"
+      }
+    ]
   }
 }
